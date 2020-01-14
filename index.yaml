@@ -3,9 +3,9 @@ entries:
   epicenter-facade:
   - apiVersion: v1
     appVersion: 2.7.0
-    created: "2020-01-14T10:49:24.9800475-08:00"
+    created: "2020-01-14T13:10:32.3783282-08:00"
     description: Epicenter Facade In A Box
-    digest: 6ed580fc68b1edcee3eaf1504efb77861eee86479f74474011b7f6bef8e46734
+    digest: 9b818d8ef06dae47a038c31b0fcdfa390f9a3ed357f2a58888c87ca99dbe34cc
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -16,7 +16,7 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 2.7.0
-    created: "2020-01-14T10:49:24.9810839-08:00"
+    created: "2020-01-14T13:10:32.3793257-08:00"
     description: Epicenter Opertor In A Box
     digest: 96b06e28ca440987b4739e53c69ec2a2a7d531d31fd28c1e55e78abd0e30675c
     home: http://forio.com/epicenter
@@ -29,7 +29,7 @@ entries:
   epicenter-worker:
   - apiVersion: v1
     appVersion: 2.7.0
-    created: "2020-01-14T10:49:24.9810839-08:00"
+    created: "2020-01-14T13:10:32.3793257-08:00"
     description: Epicenter Worker In A Box
     digest: 3e3fee2afdc390d4efea3b994b4b80a38c045e8fda86d7444fa8053dfe380941
     home: http://forio.com/epicenter
@@ -39,4 +39,4 @@ entries:
     urls:
     - epicenter-worker-1.0.0.tgz
     version: 1.0.0
-generated: "2020-01-14T10:49:24.9790476-08:00"
+generated: "2020-01-14T13:10:32.3773247-08:00"
