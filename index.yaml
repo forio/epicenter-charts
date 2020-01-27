@@ -1,9 +1,22 @@
 apiVersion: v1
 entries:
+  epicenter-astronomy:
+  - apiVersion: v1
+    appVersion: 2.7.0
+    created: "2020-01-27T15:02:24.3196918-08:00"
+    description: Epicenter Astronomy In A Box
+    digest: 1eae39f895953f842216345b83944448fe6bdbc7864b5cee3957907fb4a6c157
+    home: http://forio.com/epicenter
+    maintainers:
+    - name: David Berkman
+    name: epicenter-astronomy
+    urls:
+    - epicenter-astronomy-1.0.0.tgz
+    version: 1.0.0
   epicenter-facade:
   - apiVersion: v1
     appVersion: 2.7.0
-    created: "2020-01-20T09:38:22.9001067-08:00"
+    created: "2020-01-27T15:02:24.3207175-08:00"
     description: Epicenter Facade In A Box
     digest: c33a44efdf1ae1919e7683c8bf34e368631c13564978c71d44bcfaa518bf949c
     home: http://forio.com/epicenter
@@ -16,7 +29,7 @@ entries:
   epicenter-manager:
   - apiVersion: v1
     appVersion: 2.7.0
-    created: "2020-01-20T09:38:22.9011067-08:00"
+    created: "2020-01-27T15:02:24.3216631-08:00"
     description: Epicenter Manager In A Box
     digest: f601425b9deee5efee020e697521e9ad7d570b6f777745eb7a9a268d1c2ce5c5
     home: http://forio.com/epicenter
@@ -29,9 +42,9 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 2.7.0
-    created: "2020-01-20T09:38:22.9021063-08:00"
+    created: "2020-01-27T15:02:24.3226842-08:00"
     description: Epicenter Opertor In A Box
-    digest: 96b06e28ca440987b4739e53c69ec2a2a7d531d31fd28c1e55e78abd0e30675c
+    digest: 237b9207cee5ababf4c337ed679cdb6f37a9ba5cbb01045625e45f8aa8cf9312
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -42,9 +55,9 @@ entries:
   epicenter-worker:
   - apiVersion: v1
     appVersion: 2.7.0
-    created: "2020-01-20T09:38:22.9021063-08:00"
+    created: "2020-01-27T15:02:24.3226842-08:00"
     description: Epicenter Worker In A Box
-    digest: 3e3fee2afdc390d4efea3b994b4b80a38c045e8fda86d7444fa8053dfe380941
+    digest: 7f1abb50cb995257fa7c3b91130179c8dc3144ad61054ed7f91e49d6350dadb1
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -52,4 +65,4 @@ entries:
     urls:
     - epicenter-worker-1.0.0.tgz
     version: 1.0.0
-generated: "2020-01-20T09:38:22.9001067-08:00"
+generated: "2020-01-27T15:02:24.3146605-08:00"
