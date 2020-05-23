@@ -3,7 +3,7 @@ entries:
   epicenter-astronomy:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T03:36:19.7948761-07:00"
+    created: "2020-05-23T04:11:08.2660202-07:00"
     description: Epicenter Astronomy In A Box
     digest: 83b038be24815222f7e3bf1c02bef76b22c03bf0df69294774e5dbf9aeed2eb8
     home: http://forio.com/epicenter
@@ -16,7 +16,7 @@ entries:
   epicenter-facade:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T03:36:19.7948761-07:00"
+    created: "2020-05-23T04:11:08.2670207-07:00"
     description: Epicenter Facade In A Box
     digest: fa212258c3903acccd26474ddd5e649d21099fa7316a2131a78082f45373bcf4
     home: http://forio.com/epicenter
@@ -29,7 +29,7 @@ entries:
   epicenter-manager:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T03:36:19.7958798-07:00"
+    created: "2020-05-23T04:11:08.2670207-07:00"
     description: Epicenter Manager In A Box
     digest: f8bcdc05f00591007254539313b264db6c0f609209feffb8a4bc01ab61060d1b
     home: http://forio.com/epicenter
@@ -42,7 +42,7 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T03:36:19.7968769-07:00"
+    created: "2020-05-23T04:11:08.2680207-07:00"
     description: Epicenter Opertor In A Box
     digest: 99a3f731957c3d390e74504d2c94e0e85df4be6f003bf0b14da94b0958d3b061
     home: http://forio.com/epicenter
@@ -55,9 +55,9 @@ entries:
   epicenter-worker:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T03:36:19.7968769-07:00"
+    created: "2020-05-23T04:11:08.2680207-07:00"
     description: Epicenter Worker In A Box
-    digest: e7af417d37b711cf418861de473ad7bf25e54db3c423abf972a036a37b866397
+    digest: 75f0e454d49b1c58a1930ca1aae0a2ef4d2322d3a82ebfb0ae964a1928d951d1
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -65,4 +65,4 @@ entries:
     urls:
     - epicenter-worker-1.0.0.tgz
     version: 1.0.0
-generated: "2020-05-23T03:36:19.7938932-07:00"
+generated: "2020-05-23T04:11:08.2650207-07:00"
