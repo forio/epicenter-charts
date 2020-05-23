@@ -3,9 +3,9 @@ entries:
   epicenter-astronomy:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T01:28:41.5776932-07:00"
+    created: "2020-05-23T03:08:11.1986422-07:00"
     description: Epicenter Astronomy In A Box
-    digest: f148992ac9c13c989aaf5e520554e35a9f52e9e809340901401b44e140f75b9c
+    digest: 6260d000b13188b035010c7c3209d5d3ab8e80c5c079bb7256ddd0d2ddc1c034
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -16,7 +16,7 @@ entries:
   epicenter-facade:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T01:28:41.5776932-07:00"
+    created: "2020-05-23T03:08:11.2016894-07:00"
     description: Epicenter Facade In A Box
     digest: 1bfa504787b0c8572e4d724ce9564c3ebfd07fe479fa9df801cf136b1618ad45
     home: http://forio.com/epicenter
@@ -29,7 +29,7 @@ entries:
   epicenter-manager:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T01:28:41.5787483-07:00"
+    created: "2020-05-23T03:08:11.2046755-07:00"
     description: Epicenter Manager In A Box
     digest: 8435760a9e3427de260fe90ed3be02d42a13e4c3d957d788e1a55e4884048adc
     home: http://forio.com/epicenter
@@ -42,7 +42,7 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T01:28:41.5796943-07:00"
+    created: "2020-05-23T03:08:11.2076508-07:00"
     description: Epicenter Opertor In A Box
     digest: 8b64bfb3c9c940301ea9c0484f0bb8f5dac6a32d5f5e4a6e92f85a3588140408
     home: http://forio.com/epicenter
@@ -55,9 +55,9 @@ entries:
   epicenter-worker:
   - apiVersion: v1
     appVersion: 2.8.0
-    created: "2020-05-23T01:28:41.5806932-07:00"
+    created: "2020-05-23T03:08:11.2096017-07:00"
     description: Epicenter Worker In A Box
-    digest: 050d2d71a1b4079f632e296b19e03898147606769b1ecf322d3e60399d7ecb49
+    digest: d94d59ce59e3d213f6f478eaa99697397faaa9f65a04a7964ed96825d32dafa0
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -65,4 +65,4 @@ entries:
     urls:
     - epicenter-worker-1.0.0.tgz
     version: 1.0.0
-generated: "2020-05-23T01:28:41.5767573-07:00"
+generated: "2020-05-23T03:08:11.1945936-07:00"
