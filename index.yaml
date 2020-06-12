@@ -3,9 +3,9 @@ entries:
   epicenter-astronomy:
   - apiVersion: v1
     appVersion: 2.9.0
-    created: "2020-06-11T23:50:57.2911028-07:00"
+    created: "2020-06-12T00:39:16.6963637-07:00"
     description: Epicenter Astronomy In A Box
-    digest: 386be692310490cfbbd1128fb6c5b352bcb73d06cd4328ea75455733b9af2da4
+    digest: 55cb30cba895d56dc14eed8fbb63a98494be8a702415839f8d3c7a1e11ecd9f0
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -16,7 +16,7 @@ entries:
   epicenter-facade:
   - apiVersion: v1
     appVersion: 2.9.0
-    created: "2020-06-11T23:50:57.2921003-07:00"
+    created: "2020-06-12T00:39:16.6963637-07:00"
     description: Epicenter Facade In A Box
     digest: d950322dfc88b665ec367b5f79fbe02f0bab44dfe0dcf87b624e7a36757dd194
     home: http://forio.com/epicenter
@@ -29,7 +29,7 @@ entries:
   epicenter-fluent-bit:
   - apiVersion: v1
     appVersion: 2.9.0
-    created: "2020-06-11T23:50:57.2921003-07:00"
+    created: "2020-06-12T00:39:16.697364-07:00"
     description: Epicenter Fluent Bit In A Box
     digest: b750234e8b31e024718e2d17f8a948307c1525ffde8105d07b3d72eeff9708d9
     home: http://forio.com/epicenter
@@ -42,7 +42,7 @@ entries:
   epicenter-manager:
   - apiVersion: v1
     appVersion: 2.9.0
-    created: "2020-06-11T23:50:57.2931037-07:00"
+    created: "2020-06-12T00:39:16.697364-07:00"
     description: Epicenter Manager In A Box
     digest: cf633820053bbfa7a861b8a437a180e0e05b60ce935d3c15b6d75cdd771e8e66
     home: http://forio.com/epicenter
@@ -55,9 +55,9 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 2.9.0
-    created: "2020-06-11T23:50:57.2941009-07:00"
+    created: "2020-06-12T00:39:16.6983638-07:00"
     description: Epicenter Opertor In A Box
-    digest: 8ce3e7f804b5ffcd499d3f6fc9df744fcf14e69b9b2eff66a3a7b2f32078acdc
+    digest: 523051bf1c5282d82c6e91fbf536019b992d97b69f5468d94df5c77cc1dca9af
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -68,9 +68,9 @@ entries:
   epicenter-worker:
   - apiVersion: v1
     appVersion: 2.9.0
-    created: "2020-06-11T23:50:57.2941009-07:00"
+    created: "2020-06-12T00:39:16.6983638-07:00"
     description: Epicenter Worker In A Box
-    digest: ad87caf1178a9659cf16c2703ab45fc712bdd4d6d311360c1e2cb797ba9f2a78
+    digest: 466460f70209c9b9a2a9984c665aee23ec4b86c72a2999f205859c89f8a45c37
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -78,4 +78,4 @@ entries:
     urls:
     - epicenter-worker-1.0.0.tgz
     version: 1.0.0
-generated: "2020-06-11T23:50:57.2911028-07:00"
+generated: "2020-06-12T00:39:16.6954442-07:00"
