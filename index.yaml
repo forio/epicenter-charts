@@ -3,7 +3,7 @@ entries:
   epicenter-fluent-bit:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-27T12:20:13.5815532-07:00"
+    created: "2020-07-27T12:37:26.5644481-07:00"
     description: Epicenter Fluent Bit In A Box
     digest: 755eb1415b41fefc877a9cb3636625e2ada1b37c356c944d7d016eaf78cde96b
     home: http://forio.com/epicenter
@@ -16,9 +16,9 @@ entries:
   epicenter-manager:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-27T12:20:13.5825478-07:00"
+    created: "2020-07-27T12:37:26.5654517-07:00"
     description: Epicenter Manager In A Box
-    digest: 3e29436cfe9a9cc6a122708660fd709584507c91352bc679556229989d641003
+    digest: d6c0424b51c8de4fe0fad6432eab09113b7ee950bc6ac86e84e74baaf3bd23f1
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -29,7 +29,7 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-07-27T12:20:13.58266-07:00"
+    created: "2020-07-27T12:37:26.5654517-07:00"
     description: Epicenter Operator In A Box
     digest: e5ae0a68626cf8f38a2ca4b5a122583f61c06a9badc4ea0671f51a4d3b2b952e
     home: http://forio.com/epicenter
@@ -39,4 +39,4 @@ entries:
     urls:
     - epicenter-operator-1.0.0.tgz
     version: 1.0.0
-generated: "2020-07-27T12:20:13.5805622-07:00"
+generated: "2020-07-27T12:37:26.5634465-07:00"
