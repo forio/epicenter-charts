@@ -3,9 +3,9 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 3.3.0
-    created: "2020-10-19T12:28:24.167464-07:00"
+    created: "2020-10-19T16:55:52.2965414-07:00"
     description: Epicenter Operator In A Box
-    digest: c1463f873ef3ac19b26dbd31a4d3b32eec8e21993dbc7bad57f3a78439656098
+    digest: 4f6255c0d71fc268565950bcbdf23ce3ec00c67a85cc9b356bce4a9d90c7650b
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -13,4 +13,4 @@ entries:
     urls:
     - epicenter-operator-1.0.0.tgz
     version: 1.0.0
-generated: "2020-10-19T12:28:24.1544422-07:00"
+generated: "2020-10-19T16:55:52.2955405-07:00"
