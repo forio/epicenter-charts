@@ -3,9 +3,9 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 3.7.0
-    created: "2021-07-12T10:45:31.1354107-07:00"
+    created: "2021-07-12T11:32:55.461903-07:00"
     description: Epicenter Operator In A Box
-    digest: 5a42df1e6311ab3a46619a17e851c62546bcc637bc11939fdb3bd9c0e9cf69a9
+    digest: ad4761f57daab4c85575806b2fb1c3738de61fa07e4295ebd8d441eba5455cc4
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -16,7 +16,7 @@ entries:
   epicenter-overprovisioner:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-07-12T10:45:31.1360382-07:00"
+    created: "2021-07-12T11:32:55.461903-07:00"
     description: Epicenter Overprovisioner
     digest: 9b3c367b0b3f3642deabc125f46776e1f8e8dd9267bd1410a7bda4b06a5d3e5c
     home: http://forio.com/epicenter
@@ -26,4 +26,4 @@ entries:
     urls:
     - epicenter-overprovisioner-1.0.0.tgz
     version: 1.0.0
-generated: "2021-07-12T10:45:31.1347851-07:00"
+generated: "2021-07-12T11:32:55.4609028-07:00"
