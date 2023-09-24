@@ -3,9 +3,9 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 4.2.0
-    created: "2023-09-21T14:24:17.2702338-07:00"
+    created: "2023-09-23T21:00:08.2811409-07:00"
     description: Epicenter Operator In A Box
-    digest: c72b26915f5d8abc06aa91a01cfdb35f1487da7a02a492d664133a17a8714bdb
+    digest: 2c3d87f6d4f9e7444353296dce77778d438ef7b8fcb9450841384245a92bf011
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -15,7 +15,7 @@ entries:
     version: 1.14.0
   - apiVersion: v1
     appVersion: 4.1.0
-    created: "2023-09-21T14:24:17.2682695-07:00"
+    created: "2023-09-23T21:00:08.2811409-07:00"
     description: Epicenter Operator In A Box
     digest: 8d0b5a074fb56e99c04749b1413f69142b0d0925e3ee7995a0121658af27e0b9
     home: http://forio.com/epicenter
@@ -27,7 +27,7 @@ entries:
     version: 1.13.0
   - apiVersion: v1
     appVersion: 4.0.0
-    created: "2023-09-21T14:24:17.2672709-07:00"
+    created: "2023-09-23T21:00:08.2756014-07:00"
     description: Epicenter Operator In A Box
     digest: b908fdafa74c763e24d1cd0efafe1a993da5bd1e40b42710e4658aa0c23699cc
     home: http://forio.com/epicenter
@@ -39,7 +39,7 @@ entries:
     version: 1.12.0
   - apiVersion: v1
     appVersion: 3.19.0
-    created: "2023-09-21T14:24:17.2663078-07:00"
+    created: "2023-09-23T21:00:08.2694578-07:00"
     description: Epicenter Operator In A Box
     digest: 75cde682ac0736860d4c42c966c0bd3dc1f6dcda3f5d4b6997562d6340d6fb17
     home: http://forio.com/epicenter
@@ -52,7 +52,7 @@ entries:
   epicenter-overprovisioner:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2023-09-21T14:24:17.2702338-07:00"
+    created: "2023-09-23T21:00:08.2875348-07:00"
     description: Epicenter Overprovisioner
     digest: 14115abee5d7e10837a33989d49e7e02a80d1532ac762ac4437c0aea4eace7ed
     home: http://forio.com/epicenter
@@ -62,4 +62,4 @@ entries:
     urls:
     - epicenter-overprovisioner-1.1.0.tgz
     version: 1.1.0
-generated: "2023-09-21T14:24:17.2632977-07:00"
+generated: "2023-09-23T21:00:08.2634108-07:00"
