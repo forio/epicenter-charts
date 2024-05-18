@@ -3,9 +3,9 @@ entries:
   epicenter-operator:
   - apiVersion: v1
     appVersion: 4.6.0
-    created: "2024-05-18T12:11:27.0186029-07:00"
+    created: "2024-05-18T13:11:19.0876995-07:00"
     description: Epicenter Operator In A Box
-    digest: daecaea6b6036e793bdf1f433ebfda8ea2ed641ebe6d66483c912d34c1144d66
+    digest: 6073830ec730a30cfbcaf6c44d110e8312336a509fbbce0e5275af08be052cb1
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -15,7 +15,7 @@ entries:
     version: 1.18.0
   - apiVersion: v1
     appVersion: 4.5.0
-    created: "2024-05-18T12:11:27.0175399-07:00"
+    created: "2024-05-18T13:11:19.0865922-07:00"
     description: Epicenter Operator In A Box
     digest: 66c7497b170b9f6367b9cf9e36cb2b62aff624f74b5af76657eba60504a3aae7
     home: http://forio.com/epicenter
@@ -27,7 +27,7 @@ entries:
     version: 1.17.0
   - apiVersion: v1
     appVersion: 4.4.0
-    created: "2024-05-18T12:11:27.015951-07:00"
+    created: "2024-05-18T13:11:19.0814864-07:00"
     description: Epicenter Operator In A Box
     digest: 53f97b53bc2e8f21b3b24f0988b1d9aa3e1bcfe31b54f93e42131efdceee22eb
     home: http://forio.com/epicenter
@@ -39,7 +39,7 @@ entries:
     version: 1.16.0
   - apiVersion: v1
     appVersion: 4.3.0
-    created: "2024-05-18T12:11:27.0121974-07:00"
+    created: "2024-05-18T13:11:19.0748391-07:00"
     description: Epicenter Operator In A Box
     digest: 3b56e2563049f511cd5d096389850d09c7f0db177df9e4d5d39e8fbeda5c18f8
     home: http://forio.com/epicenter
@@ -52,7 +52,7 @@ entries:
   epicenter-overprovisioner:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2024-05-18T12:11:27.0191204-07:00"
+    created: "2024-05-18T13:11:19.09164-07:00"
     description: Epicenter Overprovisioner
     digest: 14115abee5d7e10837a33989d49e7e02a80d1532ac762ac4437c0aea4eace7ed
     home: http://forio.com/epicenter
@@ -62,4 +62,4 @@ entries:
     urls:
     - epicenter-overprovisioner-1.1.0.tgz
     version: 1.1.0
-generated: "2024-05-18T12:11:27.0109969-07:00"
+generated: "2024-05-18T13:11:19.0688348-07:00"
