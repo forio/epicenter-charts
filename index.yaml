@@ -2,8 +2,20 @@ apiVersion: v1
 entries:
   epicenter-operator:
   - apiVersion: v2
+    appVersion: 5.6.0
+    created: "2025-11-16T22:37:37.8198267-08:00"
+    description: Epicenter Operator In A Box
+    digest: 638ae91c995ea03fab45baffd6fd9be601628a8ea94f8d6cd304320b52359c37
+    home: http://forio.com/epicenter
+    maintainers:
+    - name: David Berkman
+    name: epicenter-operator
+    urls:
+    - epicenter-operator-2.6.0.tgz
+    version: 2.6.0
+  - apiVersion: v2
     appVersion: 5.5.0
-    created: "2025-09-25T10:28:08.0444893-07:00"
+    created: "2025-11-16T22:37:37.8176953-08:00"
     description: Epicenter Operator In A Box
     digest: aba7b77348d3efb9b35b633fca278ac7fa89280fe3269fe13249e795349982e7
     home: http://forio.com/epicenter
@@ -15,7 +27,7 @@ entries:
     version: 2.5.0
   - apiVersion: v2
     appVersion: 5.4.1
-    created: "2025-09-25T10:28:08.0409526-07:00"
+    created: "2025-11-16T22:37:37.7974329-08:00"
     description: Epicenter Operator In A Box
     digest: c52131ad9699fba7f96010cbd08718ff2cfcee1a641b4eb953959c2422421476
     home: http://forio.com/epicenter
@@ -27,7 +39,7 @@ entries:
     version: 2.4.1
   - apiVersion: v2
     appVersion: 5.4.0
-    created: "2025-09-25T10:28:08.0209011-07:00"
+    created: "2025-11-16T22:37:37.7760306-08:00"
     description: Epicenter Operator In A Box
     digest: a2dd751f567b7e03a29054eb7a424701ab8c08f861696a8fef062e8a073a1d26
     home: http://forio.com/epicenter
@@ -39,7 +51,7 @@ entries:
     version: 2.4.0
   - apiVersion: v1
     appVersion: 5.3.0
-    created: "2025-09-25T10:28:07.9975378-07:00"
+    created: "2025-11-16T22:37:37.7526759-08:00"
     description: Epicenter Operator In A Box
     digest: 854cf02dfad3b057f6c75621f115be397ac43885b08b7655fdd94de5e231925b
     home: http://forio.com/epicenter
@@ -51,7 +63,7 @@ entries:
     version: 2.3.0
   - apiVersion: v1
     appVersion: 5.2.0
-    created: "2025-09-25T10:28:07.9799567-07:00"
+    created: "2025-11-16T22:37:37.7324595-08:00"
     description: Epicenter Operator In A Box
     digest: 208b439911c1179b83fdca3200b1d02fc69e0b60614f96586c9a1dc4419b6db7
     home: http://forio.com/epicenter
@@ -63,7 +75,7 @@ entries:
     version: 2.2.0
   - apiVersion: v1
     appVersion: 5.1.0
-    created: "2025-09-25T10:28:07.9598577-07:00"
+    created: "2025-11-16T22:37:37.7107206-08:00"
     description: Epicenter Operator In A Box
     digest: 3aa630d25ace60a09e53f7d883dd58faeb27184213123f26a448b651ff97ab91
     home: http://forio.com/epicenter
@@ -75,7 +87,7 @@ entries:
     version: 2.1.0
   - apiVersion: v1
     appVersion: 5.0.0
-    created: "2025-09-25T10:28:07.9385084-07:00"
+    created: "2025-11-16T22:37:37.6891423-08:00"
     description: Epicenter Operator In A Box
     digest: 587ecc7563463ee9df6bce97378e6b13e857fde4dba7462c438726c2fc7aa91b
     home: http://forio.com/epicenter
@@ -88,7 +100,7 @@ entries:
   epicenter-overprovisioner:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2025-09-25T10:28:08.0619199-07:00"
+    created: "2025-11-16T22:37:37.8229662-08:00"
     description: Epicenter Overprovisioner
     digest: 14115abee5d7e10837a33989d49e7e02a80d1532ac762ac4437c0aea4eace7ed
     home: http://forio.com/epicenter
@@ -98,4 +110,4 @@ entries:
     urls:
     - epicenter-overprovisioner-1.1.0.tgz
     version: 1.1.0
-generated: "2025-09-25T10:28:07.9087674-07:00"
+generated: "2025-11-16T22:37:37.6550874-08:00"
