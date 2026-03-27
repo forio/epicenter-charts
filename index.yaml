@@ -3,7 +3,7 @@ entries:
   epicenter-operator:
   - apiVersion: v2
     appVersion: 5.8.0
-    created: "2026-03-27T14:55:40.6244597-07:00"
+    created: "2026-03-27T15:16:27.8847272-07:00"
     description: Epicenter Operator In A Box
     digest: 71e81839e78f759c044790d8896fc1ea8f90790467a5ea315bdf74d37adc54d3
     home: http://forio.com/epicenter
@@ -15,9 +15,9 @@ entries:
     version: 2.8.0
   - apiVersion: v2
     appVersion: 5.7.2
-    created: "2026-03-27T14:55:40.6094782-07:00"
+    created: "2026-03-27T15:16:27.8825108-07:00"
     description: Epicenter Operator In A Box
-    digest: de4431fe8f9a9a18bdbeda0f0390f63a4ea035eb666b8c5bd5989e8484bbb4a1
+    digest: 98f2f99f70a449be0501b23a6dc3080be0edaa465efefd06ef660f90d29f8edc
     home: http://forio.com/epicenter
     maintainers:
     - name: David Berkman
@@ -27,7 +27,7 @@ entries:
     version: 2.7.2
   - apiVersion: v2
     appVersion: 5.7.0
-    created: "2026-03-27T14:55:40.6059572-07:00"
+    created: "2026-03-27T15:16:27.8803462-07:00"
     description: Epicenter Operator In A Box
     digest: c8219333642158572e9eddfd31d33ffd83029cf1f45dce74fd5ddeba917db557
     home: http://forio.com/epicenter
@@ -39,7 +39,7 @@ entries:
     version: 2.7.0
   - apiVersion: v2
     appVersion: 5.6.0
-    created: "2026-03-27T14:55:40.5913283-07:00"
+    created: "2026-03-27T15:16:27.8786752-07:00"
     description: Epicenter Operator In A Box
     digest: 638ae91c995ea03fab45baffd6fd9be601628a8ea94f8d6cd304320b52359c37
     home: http://forio.com/epicenter
@@ -51,7 +51,7 @@ entries:
     version: 2.6.0
   - apiVersion: v2
     appVersion: 5.5.0
-    created: "2026-03-27T14:55:40.5760544-07:00"
+    created: "2026-03-27T15:16:27.8764508-07:00"
     description: Epicenter Operator In A Box
     digest: aba7b77348d3efb9b35b633fca278ac7fa89280fe3269fe13249e795349982e7
     home: http://forio.com/epicenter
@@ -64,7 +64,7 @@ entries:
   epicenter-overprovisioner:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2026-03-27T14:55:40.6378206-07:00"
+    created: "2026-03-27T15:16:27.8858531-07:00"
     description: Epicenter Overprovisioner
     digest: 14115abee5d7e10837a33989d49e7e02a80d1532ac762ac4437c0aea4eace7ed
     home: http://forio.com/epicenter
@@ -74,4 +74,4 @@ entries:
     urls:
     - epicenter-overprovisioner-1.1.0.tgz
     version: 1.1.0
-generated: "2026-03-27T14:55:40.5569694-07:00"
+generated: "2026-03-27T15:16:27.8705237-07:00"
